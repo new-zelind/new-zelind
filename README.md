@@ -20,7 +20,7 @@ My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Syst
 
 ### 🔭 Current Projects:
 
-#### [ByrnesBot](https://github.com/new-zelind/ByrnesBot)
+#### [ByrnesBot](https://github.com/new-zelind/LeverBot2)
 > ByrnesBot is a moderation bot developed by myself and MayorMonty.
 > We started work on [the original ByrnesBot](https://github.com/new-zelind/LeverBot) in the summer of 2019,
 > and worked on rebuilding and streamlining it in the summer of 2020.
