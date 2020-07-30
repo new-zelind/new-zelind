@@ -1,20 +1,5 @@
 ### Hello there 👋
 
-<!--
-**new-zelind/new-zelind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Systems major at Clemson University in Clemson, SC.
 
 ### 💻 Languages/Programs Known:
@@ -35,7 +20,7 @@ My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Syst
 
 ### 🔭 Current Projects:
 
-##### [ByrnesBot](https://github.com/new-zelind/ByrnesBot)
+#### [ByrnesBot](https://github.com/new-zelind/ByrnesBot)
 > ByrnesBot is a moderation bot developed by myself and MayorMonty.
 > We started work on [the original ByrnesBot](https://github.com/new-zelind/LeverBot) in the summer of 2019,
 > and worked on rebuilding and streamlining it in the summer of 2020.
@@ -47,7 +32,7 @@ My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Syst
 - Functional commands to satsify residents' needs
 - Games for residents and RAs to play, as well as win/loss/draw recording
 
-##### [AutoBLT](https://github.com/new-zelind/AutoBLT)
+#### [AutoBLT](https://github.com/new-zelind/AutoBLT)
 > AutoBLT is a utility bot developed by myself and MayorMonty.
 > AutoBLT is used in the 2020-21 Byrnes/Lever RA Staff Discord server as a
 > utility bot, with several commands that allow ease of access to
@@ -59,7 +44,7 @@ My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Syst
 - Management of various work-related calendars (in-progress)
 - Ease of use for even the newest Discord members
 
-##### [DeviceManager](https://github.com/new-zelind/DeviceManager)
+#### [DeviceManager](https://github.com/new-zelind/DeviceManager)
 > This is a "real-world" coding project I worked on myself.
 > It's a simple, command-line interface version of a software
 > I worked with during my internship during the summers of '19 and '20.
