@@ -36,26 +36,14 @@ My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Syst
 - Games for residents and RAs to play, as well as win/loss/draw recording
 
 #### [AutoBLT](https://github.com/new-zelind/AutoBLT)
-> AutoBLT is a utility bot developed by myself and MayorMonty.
-> AutoBLT is used in the 2020-21 Byrnes/Lever RA Staff Discord server as a
-> utility bot, with several commands that allow ease of access to
-> critical documents and information pertinent to the RA job.
-> AutoBLT is currently in-progress.
-> Some of its features are:
+> AutoBLT is a utility bot developed by myself and MayorMonty. AutoBLT is used in the 2020-21 Byrnes/Lever RA Staff Discord server as a utility bot, with several commands that allow ease of access to critical documents and information pertinent to the RA job. AutoBLT is currently in-progress. Some of its features are:
 - Greater accessibility to the resident database and reporting forms
 - Job and academic calendars at a glance
 - Management of various work-related calendars (in-progress)
 - Ease of use for even the newest Discord members
 
 #### [DeviceManager](https://github.com/new-zelind/DeviceManager)
-> This is a "real-world" coding project I worked on myself.
-> It's a simple, command-line interface version of a software
-> I worked with during my internship during the summers of '19 and '20.
-> DeviceManager is a way to add, remove, and manage various computers
-> and laptops across an organization, including both personal and those
-> in centralized "labs".
-> DeviceManager is currently in-progress.
-> Some of its features are:
+> This is a "real-world" coding project I worked on myself. It's a simple, command-line interface version of a software I worked with during my internship during the summers of '19 and '20. DeviceManager is a way to add, remove, and manage various computers and laptops across an organization, including both personal and those in centralized "labs". Some of its features are:
 - Able to add and remove devices for incoming/outgoing inventory
 - Reassignment of devices across departments or organizations
 - Matching devices to employees and staff
@@ -63,13 +51,17 @@ My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Syst
 - Easy device lookup via serial number or company asset number
 
 #### [BCUZ Robotics](https://github.com/orgs/BCUZRobotics)
-> Currently a member of Clemson VEXU Robotics Team BCUZ as a hardware specialist and robot sofware developer.
-> We are competing in VEX Robotics Competition Change Up. [(click for game overview)](https://www.youtube.com/watch?v=Hxs0q9UoMDQ)
-> Here's what we're working on:
+> Currently a member of Clemson VEXU Robotics Team BCUZ as a hardware specialist and robot sofware developer. We are competing in VEX Robotics Competition Change Up. [(click for game overview)](https://www.youtube.com/watch?v=Hxs0q9UoMDQ) Here's what we're working on:
 - Developing 45-second autonomous routines for scoring balls in towers
 - Custom odometry, path-planning, and spline execution
 - A user-friendly and robust User Interface for the VEX V5 Brain
-- Much more that's currently proprietary
+- Much more that's currently proprietary!
+
+#### [ClemBot](https://github.com/ClemsonCPSPC-Discord/Clembot)
+> ClemBot is a collaborative project across the Unofficial Clemson School of Computing Discord Server, which aims to teach us how to use GitHub and contribute to meaningul, professional code. ClemBot is a moderation, resource, and activity bot powered by Discord.py, and is open-source for all to edit. Currently, I am working on a unit conversion feature and a method of playing tic-tac-toe, which you can see in my fork [here](https://github.com/new-zelind/ClemBot). ClemBot can:
+- Implement moderation features common to many Discord moderation bots
+- Keep track of current, future, and past classes
+- Do whatever we want it to!
 
 ### 📫 How to reach me:
 > Please send me a private message if you want to contact me.
