@@ -18,8 +18,6 @@ My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Syst
 - Python
 - C#
 - Objective-C
-- Google Console
-- OneToOne Device Manager
 
 ### 🔭 Current Projects:
 
