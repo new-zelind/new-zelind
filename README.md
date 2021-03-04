@@ -9,15 +9,15 @@ My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Syst
 - JavaScript/TypeScript, 3 years
 - ARM Assembly, 2 years
 - Java, 1 year
+- Python, 2 years
 - Proficient in:
   - Solidworks
   - Microsoft Word/Excel/Access
   - Google Docs, Sheets, Slides, and Forms
 
 ### 🌱 Currently Learning:
-- Python
-- C#
-- Objective-C
+- R
+- MySQL
 
 ### 🔭 Current Projects:
 
