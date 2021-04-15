@@ -3,21 +3,23 @@
 My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Systems major at Clemson University in Clemson, SC.
 
 ### 💻 Languages/Programs Known:
-- C, 8 years
-- Bash, 3 years
-- C++, 3 years
-- JavaScript/TypeScript, 3 years
-- ARM Assembly, 2 years
-- Java, 1 year
-- Python, 2 years
+- C, 2015
+- Bash, 2018
+- C++, 2018
+- JavaScript/TypeScript, 2018
+- ARM Assembly, 2018
+- Java, 2019
+- Python, 2019
+- R, 2021
+- SQL, 2021
 - Proficient in:
   - Solidworks
   - Microsoft Word/Excel/Access
   - Google Docs, Sheets, Slides, and Forms
+  - Postman
 
 ### 🌱 Currently Learning:
-- R
-- MySQL
+- C#
 
 ### 🔭 Current Projects:
 
@@ -39,14 +41,6 @@ My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Syst
 - Job and academic calendars at a glance
 - Management of various work-related calendars (in-progress)
 - Ease of use for even the newest Discord members
-
-#### [DeviceManager](https://github.com/new-zelind/DeviceManager)
-> This is a "real-world" coding project I worked on myself. It's a simple, command-line interface version of a software I worked with during my internship during the summers of '19 and '20. DeviceManager is a way to add, remove, and manage various computers and laptops across an organization, including both personal and those in centralized "labs". Some of its features are:
-- Able to add and remove devices for incoming/outgoing inventory
-- Reassignment of devices across departments or organizations
-- Matching devices to employees and staff
-- Repair ticket management
-- Easy device lookup via serial number or company asset number
 
 #### [BCUZ Robotics](https://github.com/orgs/BCUZRobotics)
 > Currently a member of Clemson VEXU Robotics Team BCUZ as a hardware specialist and robot sofware developer. We are competing in VEX Robotics Competition Change Up. [(click for game overview)](https://www.youtube.com/watch?v=Hxs0q9UoMDQ) Here's what we're working on:
