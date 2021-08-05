@@ -43,7 +43,7 @@ My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Syst
 - Ease of use for even the newest Discord members
 
 #### [~~BCUZ~~ EZ3 Robotics](https://github.com/orgs/BCUZRobotics)
-> Currently a member of VEXU Robotics Team EZ3 as a hardware specialist and robot sofware developer. We are competing in VEX Robotics Competition Tipping Point. [(click for game overview)](https://www.youtube.com/watch?v=Hxs0q9UoMDQ) Here's what we're working on:
+> Currently a member of VEXU Robotics Team EZ3 as a hardware specialist and robot sofware developer. We are competing in VEX Robotics Competition Tipping Point. [(click for game overview)](https://www.youtube.com/watch?v=H8XcvADUXTE) Here's what we're working on:
 - Developing 45-second autonomous scoring routines
 - Custom odometry, path-planning, and spline execution
 - A user-friendly and robust User Interface for the VEX V5 Brain
@@ -56,4 +56,4 @@ My name is Zach Lindler (he/him/his), and I'm a Senior Computer Information Syst
 - Do whatever we want it to!
 
 ### 📫 How to reach me:
-> Please send me a private message if you want to contact me.
+> Please send me a private message or email at zelindl@clemson.edu if you want to contact me.
